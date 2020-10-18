@@ -1,0 +1,15 @@
+bucket:
+  strip: 1
+packages:
+  - name: school
+    actions:
+      - name: getAccesstoken
+        runtime: python:3
+      - name: validateAcesstoken
+        runtime: python:3
+      - name: login
+        runtime: python:3
+      - name: logout
+        runtime: python:3
+      - name: signup
+        runtime: python:3

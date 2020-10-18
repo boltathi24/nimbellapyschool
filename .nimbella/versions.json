@@ -1,0 +1,35 @@
+[
+  {
+    "apihost": "https://apigcp.nimbella.io",
+    "namespace": "pathitha-4mpb1smu66t",
+    "packageVersions": {
+      "school": {
+        "version": "0.0.2",
+        "digest": "96645bf401593ae6cf31f9b15bc90e15b8ff1c7b51793e283eeac84e79a5e84f"
+      }
+    },
+    "actionVersions": {
+      "school/getAccesstoken": {
+        "version": "0.0.2",
+        "digest": "9dc9cf6531ce7db6e6a8b99fa32e73be4cc0ef31b88a95718f90699aa5ad8b94"
+      },
+      "school/login": {
+        "version": "0.0.2",
+        "digest": "643c67126b92f670584b57741134f0404b619d347180cd31e899ce8676e7acfd"
+      },
+      "school/logout": {
+        "version": "0.0.2",
+        "digest": "944382aee3ea1df308136af8c4445736d2d56cf3990f5df9613616981d758dd0"
+      },
+      "school/signup": {
+        "version": "0.0.2",
+        "digest": "245d5e393b280c1a1c928f6f0de4caf9977796f268ee37bcfdde8ad72f34312f"
+      },
+      "school/validateAcesstoken": {
+        "version": "0.0.2",
+        "digest": "354ce318106c6b7b312930adbaa6c0de1480cd57600c5c16fec5695157b3ccfa"
+      }
+    },
+    "webHashes": {}
+  }
+]
